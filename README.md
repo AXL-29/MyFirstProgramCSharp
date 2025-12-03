@@ -5,3 +5,5 @@
 # 2. Learn about declaration and initialization of variables as well as printing the variable via concatenation.
 
 # 3. Learn about constant variable, what are the key features and how to properly use it.
+
+# 4. Learn about different conversion and typecasting.
