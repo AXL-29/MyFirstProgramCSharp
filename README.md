@@ -10,3 +10,4 @@
 
 # 5. Learn about userInput using the Console.ReadLine() and convert it directly to different data types.
 
+# Learn about basic arithmetic operators.
