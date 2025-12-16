@@ -31,7 +31,8 @@ class RockPaperScissors
                     break;
             }
 
-            Console.WriteLine("Computer chose: " + computer);
+            Console.WriteLine("Player Choose: " + player);
+            Console.WriteLine("Computer Choose: " + computer);
 
             // Game logic
             if (player == computer)
